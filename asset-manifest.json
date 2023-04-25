@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.cc5454a0.css",
-    "main.js": "/react-gh-pages/static/js/main.e887d47e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.cc5454a0.css.map": "/react-gh-pages/static/css/main.cc5454a0.css.map",
-    "main.e887d47e.js.map": "/react-gh-pages/static/js/main.e887d47e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/harendra5893/ProfileCard.git/static/css/main.cc5454a0.css",
+    "main.js": "/harendra5893/ProfileCard.git/static/js/main.5ec9b2b4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/harendra5893/ProfileCard.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/harendra5893/ProfileCard.git/index.html",
+    "main.cc5454a0.css.map": "/harendra5893/ProfileCard.git/static/css/main.cc5454a0.css.map",
+    "main.5ec9b2b4.js.map": "/harendra5893/ProfileCard.git/static/js/main.5ec9b2b4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/harendra5893/ProfileCard.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc5454a0.css",
-    "static/js/main.e887d47e.js"
+    "static/js/main.5ec9b2b4.js"
   ]
 }
