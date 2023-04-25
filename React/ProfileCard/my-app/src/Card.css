@@ -1,0 +1,30 @@
+.container {
+  background-color: #f388f5;
+  padding: 10px 30px;
+  max-width: 350px;
+  /* margin: 40px; */
+}
+
+.card {
+  background-color: #ab57cb;
+  text-align: left;
+  border-radius: 20px;
+  padding: 30px;
+}
+.card img {
+  border-radius: 50%;
+  border: 3px solid white;
+}
+.designation,
+.name,
+.about,
+button {
+  color: white;
+}
+button {
+  background-color: #f388f5;
+  border-style: none;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
